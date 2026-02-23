@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'urlextractionapi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_42A8BF36CDA1456DBE2132256E86F65F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1699AB7AFA854FC5841971EA8551F67A }}
